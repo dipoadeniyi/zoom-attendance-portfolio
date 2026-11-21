@@ -1,0 +1,6 @@
+name: attendance_portfolio
+version: '1.0.0'
+config-version: 2
+profile: attendance_portfolio
+model-paths: ['models']
+seed-paths: ['seeds']

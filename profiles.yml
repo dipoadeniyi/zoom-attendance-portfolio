@@ -1,0 +1,7 @@
+attendance_portfolio:
+  target: demo
+  outputs:
+    demo:
+      type: duckdb
+      path: ':memory:'
+      threads: 1

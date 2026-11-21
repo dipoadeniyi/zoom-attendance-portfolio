@@ -1,0 +1,6 @@
+session_id,display_name,joined_at,duration_seconds,load_order
+S01,Demo Learner A,09:01,600,1
+S01,Demo Learner A,09:01,600,2
+S01,Demo Learner A,09:15,300,2
+S01,Demo Learner B,09:02,480,2
+S01,Demo Guest,09:04,200,2
